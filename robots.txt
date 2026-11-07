@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /old-site-backup/
 
 Sitemap: https://allanpaterson.com/sitemap.xml
